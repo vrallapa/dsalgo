@@ -1,0 +1,609 @@
+['INFO ]2023-07-03 12:33:19,382(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user opens portal page
+['INFO ]2023-07-03 12:33:51,330(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user opens portal page
+['INFO ]2023-07-03 12:44:07,669(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user opens portal page
+['INFO ]2023-07-03 12:44:11,195(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user opens Register page
+['INFO ]2023-07-03 12:44:11,396(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user opens Register page
+['INFO ]2023-07-03 12:44:11,696(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user opens Register page
+['INFO ]2023-07-03 12:44:12,263(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user opens Register page
+['INFO ]2023-07-03 12:44:12,678(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user opens Register page
+['INFO ]2023-07-03 12:44:13,264(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 12:44:13,512(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 12:44:14,246(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 12:44:14,641(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 12:44:15,058(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 12:44:15,463(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 12:44:16,486(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 12:44:17,111(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 12:44:17,640(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 12:44:37,958(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 12:44:52,811(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 12:44:59,860(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 12:45:08,455(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 14:07:25,904(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user opens portal page
+['INFO ]2023-07-03 14:07:26,202(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks getting started button
+['INFO ]2023-07-03 14:07:26,219(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user should go to home page
+['INFO ]2023-07-03 14:07:26,225(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-page title shoul be
+['INFO ]2023-07-03 14:07:26,460(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user opens Home Page
+['INFO ]2023-07-03 14:07:26,714(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on Get Started link on homepage {string} without login
+['INFO ]2023-07-03 14:07:26,751(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user get warning message 
+['INFO ]2023-07-03 14:07:26,859(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user opens Home Page
+['INFO ]2023-07-03 14:07:27,098(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on Get Started link on homepage {string} without login
+['INFO ]2023-07-03 14:07:27,130(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user get warning message 
+['INFO ]2023-07-03 14:07:27,242(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user opens Home Page
+['INFO ]2023-07-03 14:07:27,439(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on Get Started link on homepage {string} without login
+['INFO ]2023-07-03 14:07:27,461(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user get warning message 
+['INFO ]2023-07-03 14:07:27,574(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user opens Home Page
+['INFO ]2023-07-03 14:07:27,816(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on Get Started link on homepage {string} without login
+['INFO ]2023-07-03 14:07:27,843(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user get warning message 
+['INFO ]2023-07-03 14:07:27,947(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user opens Home Page
+['INFO ]2023-07-03 14:07:28,189(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on Get Started link on homepage {string} without login
+['INFO ]2023-07-03 14:07:28,220(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user get warning message 
+['INFO ]2023-07-03 14:07:28,315(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user opens Home Page
+['INFO ]2023-07-03 14:07:28,560(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on Get Started link on homepage {string} without login
+['INFO ]2023-07-03 14:07:28,590(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user get warning message 
+['INFO ]2023-07-03 14:07:28,694(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user opens Home Page
+['INFO ]2023-07-03 14:07:28,937(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on Get Started link on homepage {string} without login
+['INFO ]2023-07-03 14:07:28,969(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user get warning message 
+['INFO ]2023-07-03 14:07:29,076(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user opens Home Page
+['INFO ]2023-07-03 14:07:29,242(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Sign in
+['INFO ]2023-07-03 14:07:29,259(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to Sign in page
+['INFO ]2023-07-03 14:07:29,379(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user opens Home Page
+['INFO ]2023-07-03 14:07:29,544(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Register
+['INFO ]2023-07-03 14:07:29,560(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to Register form
+['INFO ]2023-07-03 14:07:29,688(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user opens Register page
+['INFO ]2023-07-03 14:07:29,763(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Register button with all fields empty
+['INFO ]2023-07-03 14:07:29,804(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-It should display an error {string} below Username textbox
+['INFO ]2023-07-03 14:07:29,929(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user opens Register page
+['INFO ]2023-07-03 14:07:30,073(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-When The user clicks Register button after entering username with other fields empty
+['INFO ]2023-07-03 14:07:30,114(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-It should display an error {string} below Password textbox
+['INFO ]2023-07-03 14:07:30,258(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user opens Register page
+['INFO ]2023-07-03 14:07:30,626(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user enters a username with characters other than Letters, digits and special characters
+['INFO ]2023-07-03 14:07:30,957(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user opens Register page
+['INFO ]2023-07-03 14:07:31,286(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Register button after entering valid username and different passwords in password and password confirmation fields
+['INFO ]2023-07-03 14:07:31,308(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-It should display an error message
+['INFO ]2023-07-03 14:07:31,417(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user opens Register page
+['INFO ]2023-07-03 14:07:31,753(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user enters a valid username and password and password confirmation
+['INFO ]2023-07-03 14:07:32,045(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 14:07:32,193(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on register link on signin page
+['INFO ]2023-07-03 14:07:32,210(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user redirected to Registration page from signin page and title is {string}
+['INFO ]2023-07-03 14:07:32,326(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 14:07:32,472(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user enters a valid {string} and {string}
+['INFO ]2023-07-03 14:07:32,814(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-click login button to verify and pagetitle is 
+['INFO ]2023-07-03 14:07:33,004(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-logout of the page
+['INFO ]2023-07-03 14:07:33,139(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 14:07:33,292(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user enter invalid {string} and {string}
+['INFO ]2023-07-03 14:07:33,542(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-click login button to verify and pagetitle is 
+['INFO ]2023-07-03 14:07:33,639(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 14:07:33,786(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user enter invalid {string} and {string}
+['INFO ]2023-07-03 14:07:34,042(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-click login button to verify and pagetitle is 
+['INFO ]2023-07-03 14:07:34,148(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 14:07:34,292(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user enter invalid {string} and {string}
+['INFO ]2023-07-03 14:07:34,540(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-click login button to verify and pagetitle is 
+['INFO ]2023-07-03 14:07:34,643(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 14:07:35,772(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user enter sheet {string} and {int}
+['INFO ]2023-07-03 14:07:35,992(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-click login button to verify title of the page {string}
+['INFO ]2023-07-03 14:07:36,116(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 14:07:36,344(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user enter sheet {string} and {int}
+['INFO ]2023-07-03 14:07:36,700(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-click login button to verify title of the page {string}
+['INFO ]2023-07-03 14:07:36,853(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 14:07:37,053(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user enter sheet {string} and {int}
+['INFO ]2023-07-03 14:07:37,333(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-click login button to verify title of the page {string}
+['INFO ]2023-07-03 14:07:37,447(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 14:07:37,698(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user enter sheet {string} and {int}
+['INFO ]2023-07-03 14:07:37,914(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-click login button to verify title of the page {string}
+['INFO ]2023-07-03 14:07:38,122(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the Home page with valid  log in {string} and {string}
+['INFO ]2023-07-03 14:07:38,322(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Sign out
+['INFO ]2023-07-03 14:07:39,029(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the Home page after logged in
+['INFO ]2023-07-03 14:07:39,221(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-User is clicks on Datastructuregetstarted button
+['INFO ]2023-07-03 14:07:39,445(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on time complexity sub module
+['INFO ]2023-07-03 14:07:39,996(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on tryhere button
+['INFO ]2023-07-03 14:07:40,221(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user sends valid pythoncode and click on run button and print the output in console
+['INFO ]2023-07-03 14:07:40,403(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user navigates refresh
+['INFO ]2023-07-03 14:07:40,609(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user sends invalid syntax and click on run button and capture the alert messsage
+['INFO ]2023-07-03 14:07:40,655(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user navigates back
+['INFO ]2023-07-03 14:07:40,837(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on practice Questions
+['INFO ]2023-07-03 14:07:40,868(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user navigates back
+['INFO ]2023-07-03 14:07:41,555(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the Home page after logged in
+['INFO ]2023-07-03 14:07:41,814(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on the dropdown in array module
+['INFO ]2023-07-03 14:07:42,401(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on array in python submodule and user clicks on tryhere button
+['INFO ]2023-07-03 14:07:42,572(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user sends valid python code in try editor from excel sheet {string} and {int}
+['INFO ]2023-07-03 14:07:42,902(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on run button and user get the output in the console
+['INFO ]2023-07-03 14:07:43,143(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user sends invalid syntax in try editor from excel sheet {string} and {int}
+['INFO ]2023-07-03 14:07:43,189(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on run button
+['INFO ]2023-07-03 14:07:43,246(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user gets the alert message and navigates back
+['INFO ]2023-07-03 14:07:43,691(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on array using list submodule and user clicks on tryhere button
+['INFO ]2023-07-03 14:07:43,851(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user sends valid python code in try editor from excel sheet {string} and {int}
+['INFO ]2023-07-03 14:07:44,157(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on run button and capture the output in console
+['INFO ]2023-07-03 14:07:44,394(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user sends invalid syntax in try editor from excel sheet {string} and {int}
+['INFO ]2023-07-03 14:07:44,454(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on run button
+['INFO ]2023-07-03 14:07:44,520(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user gets the alert message and navigates back
+['INFO ]2023-07-03 14:07:45,109(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on Basic operations in list and user clicks on tryhere button
+['INFO ]2023-07-03 14:07:45,285(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user sends valid python code in try editor from excel sheet {string} and {int}
+['INFO ]2023-07-03 14:07:45,591(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on run button and capture the output in console
+['INFO ]2023-07-03 14:07:45,819(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user sends invalid syntax in try editor from excel sheet {string} and {int}
+['INFO ]2023-07-03 14:07:45,869(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on run button
+['INFO ]2023-07-03 14:07:45,931(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user gets the alert message and navigates back
+['INFO ]2023-07-03 14:07:46,438(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on Application of array and user clicks on tryhere button
+['INFO ]2023-07-03 14:07:46,597(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user sends valid python code in try editor from excel sheet {string} and {int}
+['INFO ]2023-07-03 14:07:46,927(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on run button and capture the output in console
+['INFO ]2023-07-03 14:07:47,115(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user sends invalid syntax in try editor from excel sheet {string} and {int}
+['INFO ]2023-07-03 14:07:47,167(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on run button
+['INFO ]2023-07-03 14:07:47,229(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user gets the alert message and navigates back
+['INFO ]2023-07-03 14:07:47,517(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on Practice QuestionThe user clicks Register
+['INFO ]2023-07-03 14:07:47,882(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on search the array and clear the try editor
+['INFO ]2023-07-03 14:07:48,213(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user sends valid python code in try editor from excel sheet {string} and {int}
+['INFO ]2023-07-03 14:07:50,552(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on submit button and capture the output in console
+['INFO ]2023-07-03 14:07:50,756(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user sends invalid syntax in try editor from excel sheet {string} and {int}
+['INFO ]2023-07-03 14:07:50,814(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on run button
+['INFO ]2023-07-03 14:07:50,856(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user gets the alert message and navigates back
+['INFO ]2023-07-03 14:07:52,222(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on max consecutive ones and clear the try editor
+['INFO ]2023-07-03 14:07:52,398(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user sends valid python code in try editor from excel sheet {string} and {int}
+['INFO ]2023-07-03 14:07:52,646(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on run button and capture the output in console
+['INFO ]2023-07-03 14:07:52,857(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user sends invalid syntax in try editor from excel sheet {string} and {int}
+['INFO ]2023-07-03 14:07:52,917(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on run button
+['INFO ]2023-07-03 14:07:52,975(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user gets the alert message and navigates back
+['INFO ]2023-07-03 14:07:54,268(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on Find numbers with even number of digits and clear the try editor
+['INFO ]2023-07-03 14:07:54,410(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user sends valid python code in try editor from excel sheet {string} and {int}
+['INFO ]2023-07-03 14:07:54,670(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on run button and capture the output in console
+['INFO ]2023-07-03 14:07:54,934(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user sends invalid syntax in try editor from excel sheet {string} and {int}
+['INFO ]2023-07-03 14:07:54,993(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on run button
+['INFO ]2023-07-03 14:07:55,039(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user gets the alert message and navigates back
+['INFO ]2023-07-03 14:07:56,392(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on the squares of sorted array and clear the try editor
+['INFO ]2023-07-03 14:07:56,537(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user sends valid python code in try editor from excel sheet {string} and {int}
+['INFO ]2023-07-03 14:07:56,794(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on run button and capture the output in console
+['INFO ]2023-07-03 14:07:57,024(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user sends invalid syntax in try editor from excel sheet {string} and {int}
+['INFO ]2023-07-03 14:07:57,089(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on run button
+['INFO ]2023-07-03 14:07:57,143(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user gets the alert message and navigates back
+['INFO ]2023-07-03 14:07:57,315(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 14:07:57,556(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user enters a valid {string} and {string}
+['INFO ]2023-07-03 14:07:57,917(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-click login button to verify and pagetitle is 
+['INFO ]2023-07-03 14:07:58,556(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the Home page after logged in
+['INFO ]2023-07-03 14:07:58,855(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user selecting {string} item from the drop down menu
+['INFO ]2023-07-03 14:07:58,869(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:07:59,116(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:07:59,355(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks {string} link of Linked List page
+['INFO ]2023-07-03 14:07:59,364(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:07:59,506(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page of Linked List after logged in
+['INFO ]2023-07-03 14:07:59,752(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:07:59,801(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:07:59,991(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:00,166(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:00,237(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:00,267(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:00,499(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:00,641(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:00,693(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:00,738(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:01,029(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:01,267(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks {string} link of Linked List page
+['INFO ]2023-07-03 14:08:01,272(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:01,304(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page of Linked List after logged in
+['INFO ]2023-07-03 14:08:01,512(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:01,559(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:01,748(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:01,912(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:01,971(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:02,022(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:02,230(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:02,356(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:02,411(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:02,452(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:02,786(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:03,131(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks {string} link of Linked List page
+['INFO ]2023-07-03 14:08:03,147(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:03,167(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page of Linked List after logged in
+['INFO ]2023-07-03 14:08:03,457(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:03,495(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:03,744(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:03,901(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:03,957(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:03,979(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:04,169(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:04,256(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:04,310(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:04,356(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:04,702(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:04,972(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks {string} link of Linked List page
+['INFO ]2023-07-03 14:08:04,988(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:05,152(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page of Linked List after logged in
+['INFO ]2023-07-03 14:08:05,386(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:05,412(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:05,605(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:05,752(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:05,804(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:05,830(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:06,030(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:06,159(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:06,229(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:06,276(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:06,570(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:06,823(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks {string} link of Linked List page
+['INFO ]2023-07-03 14:08:06,830(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:06,996(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page of Linked List after logged in
+['INFO ]2023-07-03 14:08:07,220(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:07,253(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:07,466(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:07,638(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:07,694(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:07,717(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:07,922(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:08,016(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:08,072(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:08,120(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:08,444(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:08,695(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks {string} link of Linked List page
+['INFO ]2023-07-03 14:08:08,708(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:08,859(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page of Linked List after logged in
+['INFO ]2023-07-03 14:08:09,099(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:09,132(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:09,325(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:09,446(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:09,507(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:09,531(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:09,727(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:09,818(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:09,873(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:09,921(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:10,192(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:10,448(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks {string} link of Linked List page
+['INFO ]2023-07-03 14:08:10,460(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:10,648(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page of Linked List after logged in
+['INFO ]2023-07-03 14:08:10,866(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:10,893(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:11,112(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:11,281(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:11,355(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:11,383(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:11,598(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:11,736(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:11,788(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:11,837(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:12,157(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:12,346(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks {string} link of Linked List page
+['INFO ]2023-07-03 14:08:12,522(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on the {string}
+['INFO ]2023-07-03 14:08:12,522(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:12,712(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 14:08:12,892(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user enters a valid {string} and {string}
+['INFO ]2023-07-03 14:08:13,238(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-click login button to verify and pagetitle is 
+['INFO ]2023-07-03 14:08:13,927(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the Home page after logged in
+['INFO ]2023-07-03 14:08:14,159(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user selecting {string} item from the drop down menu
+['INFO ]2023-07-03 14:08:14,168(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:14,419(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:14,642(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on {string} link
+['INFO ]2023-07-03 14:08:14,652(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:14,847(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} after logged in
+['INFO ]2023-07-03 14:08:15,091(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:15,122(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:15,314(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:15,493(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:15,564(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:15,593(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:15,805(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:15,903(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:15,957(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:16,003(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:16,225(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:16,422(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on {string} link
+['INFO ]2023-07-03 14:08:16,434(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:16,606(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} after logged in
+['INFO ]2023-07-03 14:08:16,850(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:16,885(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:17,092(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:17,253(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:17,308(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:17,334(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:17,556(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:17,695(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:17,757(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:17,792(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:18,107(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:18,312(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on {string} link
+['INFO ]2023-07-03 14:08:18,322(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:18,472(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} after logged in
+['INFO ]2023-07-03 14:08:18,703(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:18,735(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:18,935(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:19,092(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:19,143(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:19,166(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:19,354(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:19,445(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:19,495(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:19,533(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:19,770(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:19,949(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user clicks on {string} link
+['INFO ]2023-07-03 14:08:20,122(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on the {string} link
+['INFO ]2023-07-03 14:08:20,122(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:20,278(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 14:08:20,473(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user enters a valid {string} and {string}
+['INFO ]2023-07-03 14:08:20,838(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-click login button to verify and pagetitle is 
+['INFO ]2023-07-03 14:08:21,471(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the Home page after logged in
+['INFO ]2023-07-03 14:08:21,690(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user selecting {string} item from the drop down menu
+['INFO ]2023-07-03 14:08:21,692(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:21,960(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:22,177(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on {string} link
+['INFO ]2023-07-03 14:08:22,184(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:22,330(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page in queue after logged in
+['INFO ]2023-07-03 14:08:22,566(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:22,594(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:22,806(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:22,940(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:22,995(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:23,027(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:23,237(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:23,342(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:23,389(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:23,430(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:23,678(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:23,937(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on {string} link
+['INFO ]2023-07-03 14:08:23,945(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:24,122(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page in queue after logged in
+['INFO ]2023-07-03 14:08:24,323(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:24,354(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:24,538(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:24,674(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:24,737(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:24,759(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:24,967(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:25,106(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:25,168(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:25,229(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:25,523(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:25,742(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on {string} link
+['INFO ]2023-07-03 14:08:25,757(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:25,921(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page in queue after logged in
+['INFO ]2023-07-03 14:08:26,143(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:26,178(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:26,378(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:26,517(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:26,571(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:26,600(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:26,822(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:26,956(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:27,001(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:27,032(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:27,266(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:27,474(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on {string} link
+['INFO ]2023-07-03 14:08:27,488(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:27,643(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page in queue after logged in
+['INFO ]2023-07-03 14:08:27,882(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:27,906(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:28,101(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:28,222(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:28,276(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:28,312(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:28,508(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:28,603(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:28,653(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:28,686(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:28,957(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:29,124(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on {string} link
+['INFO ]2023-07-03 14:08:29,292(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on {string} link
+['INFO ]2023-07-03 14:08:29,300(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:29,471(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user is in the sign in page
+['INFO ]2023-07-03 14:08:29,734(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user enters a valid {string} and {string}
+['INFO ]2023-07-03 14:08:30,064(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-click login button to verify and pagetitle is 
+['INFO ]2023-07-03 14:08:30,713(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the Home page after logged in
+['INFO ]2023-07-03 14:08:30,956(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user selecting {string} item from the drop down menu
+['INFO ]2023-07-03 14:08:30,966(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:31,204(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:31,437(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on the {string} link
+['INFO ]2023-07-03 14:08:31,448(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:31,642(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page after logged in
+['INFO ]2023-07-03 14:08:31,870(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:31,908(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:32,100(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:32,256(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:32,324(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:32,361(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:32,567(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:32,667(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:32,717(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:32,763(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:33,080(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:33,304(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on the {string} link
+['INFO ]2023-07-03 14:08:33,313(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:33,460(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page after logged in
+['INFO ]2023-07-03 14:08:33,695(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:33,729(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:33,935(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:34,094(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:34,147(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:34,183(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:34,370(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:34,487(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:34,540(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:34,576(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:34,878(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:35,110(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on the {string} link
+['INFO ]2023-07-03 14:08:35,125(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:35,142(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page after logged in
+['INFO ]2023-07-03 14:08:35,403(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:35,430(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:35,640(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:35,813(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:35,872(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:35,898(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:36,103(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:36,222(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:36,287(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:36,327(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:36,588(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:36,855(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on the {string} link
+['INFO ]2023-07-03 14:08:36,872(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:36,894(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page after logged in
+['INFO ]2023-07-03 14:08:37,170(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:37,198(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:37,402(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:37,538(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:37,588(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:37,616(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:37,835(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:37,934(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:37,987(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:38,022(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:38,309(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:38,553(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on the {string} link
+['INFO ]2023-07-03 14:08:38,562(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:38,602(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page after logged in
+['INFO ]2023-07-03 14:08:38,857(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:38,889(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:39,095(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:39,226(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:39,272(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:39,294(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:39,510(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:39,624(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:39,679(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:39,721(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:40,071(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:40,341(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on the {string} link
+['INFO ]2023-07-03 14:08:40,354(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:40,375(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page after logged in
+['INFO ]2023-07-03 14:08:40,622(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:40,645(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:40,810(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:40,966(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:41,022(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:41,058(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:41,261(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:41,390(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:41,440(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:41,487(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:41,776(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:42,114(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on the {string} link
+['INFO ]2023-07-03 14:08:42,126(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:42,140(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page after logged in
+['INFO ]2023-07-03 14:08:42,382(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:42,414(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:42,615(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:42,774(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:42,836(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:42,866(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:43,070(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:43,204(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:43,258(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:43,292(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:43,658(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:43,906(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on the {string} link
+['INFO ]2023-07-03 14:08:43,913(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:44,092(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page after logged in
+['INFO ]2023-07-03 14:08:44,300(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:44,326(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:44,524(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:44,675(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:44,742(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:44,770(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:44,967(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:45,074(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:45,133(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:45,187(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:45,540(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:45,814(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on the {string} link
+['INFO ]2023-07-03 14:08:45,825(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:45,992(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page after logged in
+['INFO ]2023-07-03 14:08:46,216(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:46,253(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:46,446(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:46,592(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:46,662(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:46,686(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:46,895(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:47,001(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:47,051(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:47,082(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:47,099(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page after logged in
+['INFO ]2023-07-03 14:08:47,297(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on the {string} link
+['INFO ]2023-07-03 14:08:47,313(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:47,504(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page after logged in
+['INFO ]2023-07-03 14:08:47,732(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:47,759(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:47,940(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:48,092(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:48,137(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:48,164(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:48,353(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:48,459(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:48,509(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:48,545(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:48,859(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:49,103(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on the {string} link
+['INFO ]2023-07-03 14:08:49,104(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:49,130(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page after logged in
+['INFO ]2023-07-03 14:08:49,357(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:49,389(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:49,589(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:49,713(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:49,774(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:49,802(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:49,989(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:50,093(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:50,151(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:50,195(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:50,454(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:50,872(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on the {string} link
+['INFO ]2023-07-03 14:08:50,888(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:51,080(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page after logged in
+['INFO ]2023-07-03 14:08:51,303(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:51,326(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:51,508(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:51,622(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:51,668(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:51,703(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:51,909(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:52,012(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:52,061(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:52,103(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:52,689(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:52,895(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on the {string} link
+['INFO ]2023-07-03 14:08:52,905(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:53,057(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page after logged in
+['INFO ]2023-07-03 14:08:53,280(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:53,307(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:53,497(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:53,647(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:53,692(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:53,724(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:53,925(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:54,058(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:54,112(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:54,154(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:54,451(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:54,626(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on the {string} link
+['INFO ]2023-07-03 14:08:54,774(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} of tree Page
+['INFO ]2023-07-03 14:08:55,499(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the Home page after logged in
+['INFO ]2023-07-03 14:08:55,719(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user selecting {string} item from the drop down menu
+['INFO ]2023-07-03 14:08:55,722(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:55,919(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:56,125(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user selecting {string} item from the drop down menu
+['INFO ]2023-07-03 14:08:56,137(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:56,375(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} sub link of Graph page
+['INFO ]2023-07-03 14:08:56,609(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:56,644(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:56,854(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:56,991(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:57,054(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:57,082(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:57,272(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:57,350(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:57,397(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:57,436(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:57,688(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:58,013(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks {string} sub link of Graph Page
+['INFO ]2023-07-03 14:08:58,025(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:08:58,044(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is on the {string} page after logged in
+['INFO ]2023-07-03 14:08:58,307(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Try Here button
+['INFO ]2023-07-03 14:08:58,343(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:58,540(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:58,676(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:58,722(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:58,744(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with Run output
+['INFO ]2023-07-03 14:08:58,958(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in a try here page having tryEditor with a Run button to test
+['INFO ]2023-07-03 14:08:59,063(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user gets invalid input from sheet {string} and {int}
+['INFO ]2023-07-03 14:08:59,126(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-user click on Run button
+['INFO ]2023-07-03 14:08:59,174(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be presented with the Run output with alert
+['INFO ]2023-07-03 14:08:59,471(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user is in the {string} page after logged in
+['INFO ]2023-07-03 14:08:59,655(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks {string} sub link of Graph Page
+['INFO ]2023-07-03 14:08:59,807(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks on the {string}
+['INFO ]2023-07-03 14:08:59,812(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user should be directed to {string} Page
+['INFO ]2023-07-03 14:09:00,026(yyyy-MM-ddHH:mm:ss.SSS][main]com.qa.util.loggerLoad1)-The user clicks Sign Out button
